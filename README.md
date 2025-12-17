@@ -1,16 +1,21 @@
-## Hi there 👋
+## Portfolio
 
-<!--
-**ShayanHemm/ShayanHemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repo collects small, clean projects that showcase how I work in scientific computing and data analysis.
 
-Here are some ideas to get you started:
+### What you will find here
+- Reproducible Python workflows for simulation and numerical modelling
+- Machine learning classification models for noisy time/frequency series 
+- Analytical and symbolic model building (Mathematica)
+- Data processing and plotting utilities
+- Time-series models GARCH/ARCH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to run
+Most folders will include a short `requirements.txt` and a minimal entry point script.
+If you clone the repo locally, typical usage is:
+
+pip install -r requirements.txt  
+python demo.py
+
+### Notes
+I am gradually adding polished, self contained examples and documentation.
+
