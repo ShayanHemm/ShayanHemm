@@ -1,6 +1,6 @@
 ## Portfolio
 
-This repo collects small, clean projects that showcase how I work in scientific computing and data analysis.
+This repo collects the codes and projects I have done during the past years and throug my accademic journey.
 
 ### What you will find here
 - Reproducible Python workflows for simulation and numerical modelling
