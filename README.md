@@ -4,10 +4,7 @@
 
 Former theoretical physicist with a PhD (Universität Heidelberg) and an MSc (ETH Zürich). I build reproducible Python and C workflows for scientific computing, simulation, and data analysis, and I apply machine learning to noisy time series problems.
 
-### Featured projects
-- Project A (Python): short one line description. Link coming soon.
-- Project B (ML/time series): short one line description. Link coming soon.
-- Project C (symbolic/numerical): short one line description. Link coming soon.
+
 
 ### Contact
 Email: shayanhemm@gmail.com  
