@@ -1,7 +1,7 @@
 <h1 align="center">Shayan Hemmatyar</h1>
 
 <p align="center">
-  PhD in theoretical physics, Universität Heidelberg &middot; MSc, ETH Zürich<br>
+  PhD in theoretical physics, Universität Heidelberg &middot; MSc in theoretical physics, ETH Zürich<br>
   <b>Heading into quantitative finance</b>
 </p>
 
@@ -54,6 +54,14 @@ I build research code that other people can run and check: statistics on noisy t
 
 ## Background
 
-- PhD in theoretical physics, Universität Heidelberg. MSc, ETH Zürich. Research background in gravitational-wave physics and tests of general relativity.
+- **PhD in theoretical physics, Universität Heidelberg (2025).** Thesis: [*Theoretical and Machine Learning Approaches to Beyond General Relativity: Stability of Generalized Proca Theories and Multi-Method Classification of Gravitational Wave Observables*](https://doi.org/10.11588/heidok.00036791). Gravitational-wave physics, tests of general relativity, and neural-network classification of noisy signals.
+- **MSc in theoretical physics, ETH Zürich.** Thesis work on kinetic field theory of cosmic structure formation, published in Physical Review D as an Editors' Suggestion.
 - Python (NumPy, pandas, SciPy, scikit-learn, TensorFlow, FastAPI), C, Mathematica.
 - Currently building a portfolio project on AI-assisted quantitative research, designed around transparency, backtesting and explicit rubrics.
+
+## Publications
+
+- L. Heisenberg, S. Hemmatyar. *Identifiability Limits of Gravitational Wave Phase Deviations: Multiclass Classification with a Multihead Neural Network.* [arXiv:2609.31993](https://arxiv.org/abs/2609.31993) (2026).
+- L. Heisenberg, S. Hemmatyar, H. Villarrubia-Rojo. *Testing General Relativity Through Gravitational Wave Classification: A Convolutional Neural Network Framework.* [arXiv:2605.02453](https://arxiv.org/abs/2605.02453) (2026).
+- L. Heisenberg, S. Hemmatyar, N. Nussbaumer. *A non-renormalization theorem for local functionals in ghost-free vector field theories coupled to dynamical geometry.* [JHEP 09 (2026) 042](https://doi.org/10.1007/JHEP09(2026)042), [arXiv:2601.08081](https://arxiv.org/abs/2601.08081).
+- L. Heisenberg, S. Hemmatyar, S. Zentarra. *Kinetic field theory: Higher-order perturbation theory.* [Phys. Rev. D 106, 063513 (2022)](https://doi.org/10.1103/PhysRevD.106.063513), Editors' Suggestion. [arXiv:2207.10504](https://arxiv.org/abs/2207.10504).
